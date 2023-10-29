@@ -4,25 +4,25 @@
 /backend/.env
 /backend/.gitignore
 
-# newfrontend
+# frontend
 # dependencies
-/newfrontend/node_modules
-/newfrontend/.pnp
-/newfrontend/.pnp.js
+/frontend/node_modules
+/frontend/.pnp
+/frontend/.pnp.js
 
 # testing
-/newfrontend/coverage
+/frontend/coverage
 
 # production
-/newfrontend/build
+/frontend/build
 
 # misc
-/newfrontend/.DS_Store
-/newfrontend/.env.local
-/newfrontend/.env.development.local
-/newfrontend/.env.test.local
-/newfrontend/.env.production.local
+/frontend/.DS_Store
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
 
-/newfrontend/npm-debug.log*
-/newfrontend/yarn-debug.log*
-/newfrontend/yarn-error.log*
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
